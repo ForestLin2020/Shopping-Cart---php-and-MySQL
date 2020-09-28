@@ -1,0 +1,5 @@
+INSERT INTO producttable(product_name, product_price, product_image)VALUES
+('Chief Architect Reference Manual',119.90,'./upload/product1.png'),
+('Chief Architect VR Goggles',14.95,'./upload/product2.png'),
+('Chief Architect Travel Mug',14.95,'./upload/product3.png'),
+('Chief Architect Media Bundle',189.95,'./upload/product4.png')
